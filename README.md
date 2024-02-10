@@ -9,5 +9,5 @@ This is a repository of projecrs for the Math 311 Linear Algebra course at Winon
 
 2. The Ski Hill Example
    Modeling future behavior using transition matrices.
-   
+   https://github.com/JacobHaines/Math311_Linear_Algebra_Projects/blob/main/The_Ski_Hill_Transition_Matrices_and_Markov_Chains.ipynb
    
