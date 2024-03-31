@@ -28,4 +28,4 @@ This is a repository of projecrs for the Math 311 Linear Algebra course at Winon
     https://github.com/JacobHaines/Math311_Linear_Algebra_Projects/blob/main/Gram_Schmidt_Process_with_Poynomial_Function_Spaces.ipynb
 
   * Periodic Function Spaces:
-    
+    https://github.com/JacobHaines/Math311_Linear_Algebra_Projects/blob/main/Gram_Schmidt_Process_with_Periodic_Function_Spaces.ipynb
